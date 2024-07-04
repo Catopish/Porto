@@ -1,0 +1,11 @@
+img{
+    /* width: 3vm; */
+    display: flex;
+    flex-direction: column;
+}
+
+div{
+    display: inline-block;
+    text-align: center;
+    /* color: antiquewhite; */
+}
